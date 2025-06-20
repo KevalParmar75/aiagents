@@ -38,8 +38,8 @@ Follow these steps to set up and run the Financial Assistant Bot locally.
 1.  **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/your-username/financial-assistant-bot.git](https://github.com/your-username/financial-assistant-bot.git)
-    cd financial-assistant-bot
+    git clone [https://github.com/KevalParmar75/aiagents.git](https://github.com/KevalParmar75/aiagents.git)
+    cd aiagents
     ```
 
 2.  **Create a virtual environment (recommended):**
